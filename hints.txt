@@ -1,0 +1,23 @@
+Dear All,
+
+
+To clarify for the hints:
+
+
+Law of Total Expectation Week 5 p.50,
+
+Law of Total Variance Week 5 p.51,
+
+Conjugate priors Week 8 p.5 - p.17,
+
+Fisher Information Week 8 p.6 - 7,
+
+Fano Inequality. Week 6 p. 38 - 43
+
+
+If you have any questions, please let me know.
+
+
+Thanks
+
+Simon
